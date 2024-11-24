@@ -1,3 +1,3 @@
 # MAE_TE_repo
 
-bash subnitit_pretrain_test.sh
+bash submit_pretrain_audioset2M_test.sh
